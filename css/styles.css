@@ -2,6 +2,7 @@
   box-sizing: border-box;
 }
 body{
+  font-family: "Roboto", "Arial", sans-serif;
   background-color: blue;
 }
 a{
@@ -37,6 +38,7 @@ a{
   margin-top: 150px;
   margin-bottom: 150px;
   border: white;
+  padding: 30px;
 }
 .device{
   padding: 10px;
@@ -46,8 +48,8 @@ a{
   padding-bottom: 19px;
 }
 .monitor{
-  padding-top: 19px;
-  padding-bottom: 19px;
+  padding-top: 9px;
+  padding-bottom: 9px;
 }
 .month{
   font-size: 13px;
