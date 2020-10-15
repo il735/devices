@@ -1,0 +1,54 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: blue;
+}
+a{
+  list-style-type: none;
+  text-decoration: none;
+}
+.device{
+  width: 300px;
+  display: inline-block;
+  font-weight: bold;
+  color: darkblue;
+  text-align: center;
+}
+.device:hover{
+  background-color: lightgray;
+}
+
+.mobile-text{
+  color: grey;
+}
+.money{
+  color: darkblue;
+  font-size: 30px;
+}
+.box{
+  display: flex;
+  background-color: #fff;
+  text-align: center;
+  align-items: center;
+  width: 900px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 150px;
+  margin-bottom: 150px;
+  border: white;
+}
+.device{
+  padding: 10px;
+}
+.mobile{
+  padding-top: 19px;
+  padding-bottom: 19px;
+}
+.monitor{
+  padding-top: 19px;
+  padding-bottom: 19px;
+}
+.month{
+  font-size: 13px;
+}
